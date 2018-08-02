@@ -7,7 +7,7 @@ plugins {
 }
 
 // Define the main class for the application
-mainClassName = 'App'
+mainClassName = 'com.codeontheweb.usefulapp.UsefulApp'
 
 dependencies {
     // This dependency is found on compile classpath of this component and consumers.
@@ -27,6 +27,6 @@ repositories {
 //JAR settings
 jar {
 	manifest {
-		attributes 'Main-Class': 'App'
+		attributes 'Main-Class': 'com.codeontheweb.usefulapp.UsefulApp'
 	}
 }

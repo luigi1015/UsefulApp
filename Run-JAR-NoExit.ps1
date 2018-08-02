@@ -1,0 +1,1 @@
+﻿Powershell -NoExit ".\Run-JAR.ps1"

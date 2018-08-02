@@ -1,0 +1,1 @@
+﻿Powershell -NoExit ".\Buid-and-Run-JAR.ps1"
